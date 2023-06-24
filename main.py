@@ -8,3 +8,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+def minus(a, b):
+    return a - b
